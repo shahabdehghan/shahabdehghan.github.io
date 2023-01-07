@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shahab Dehghan"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Shahab Dehghan"
 description              : &description "Lecturer in Power Systems"
