@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shahab Dehghan"
 title_separator          : "-"
 name                     : &name "Shahab Dehghan"
-description              : &description "Lecturer in Power Systems"
+description              : &description "Lecturer in Power Systems, School of Engineering, Newcastle University"
 url                      : https://shahabdehghan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shahabdehghan/shahabdehghan.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Shahab Dehghan"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/shahabdehghan/shahabdehghan.github.io/tree/master/images/bio-photo.jpg"
   bio              : "Lecturer in Power Systems"
   location         : "Newcastle upon Tyne, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=9XE53VUAAAAJ&hl=en"
   email            : "shahab.dehghan@newcastle.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Shahab_Dehghan"
   uri              :
