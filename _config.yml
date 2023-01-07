@@ -83,9 +83,9 @@ author:
   name             : "Shahab Dehghan"
   avatar           : "profile.png"
   bio              : "Lecturer in Power Systems"
-  location         : "UK"
+  location         : "Newcastle upon Tyne, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "shahab.dehghan@newcastle.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Shahab_Dehghan"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shahabdehghan"
+  github           : "shahabdehghan"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shahabdehghan/"
+  linkedin         : "shahabdehghan"
   orcid            : "https://orcid.org/0000-0001-9619-6471"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/_ShahabDehghan_"
+  twitter          : "_ShahabDehghan_"
   vine             :
   weibo            :
   xing             :
