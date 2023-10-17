@@ -1,5 +1,5 @@
 ---
-title: "EEE8157 : Renewable Energy Systems and Smart Grids"
+title: "EEE8157: Renewable Energy Systems and Smart Grids"
 collection: teaching
 type: "PGT/UG Module"
 permalink: /teaching/2022-spring-teaching-1
