@@ -5,5 +5,5 @@ type: "PGT/UG Module"
 permalink: /teaching/2022-spring-teaching-1
 venue: "School of Engineering, Newcastle University"
 date: 2022/2023
-location: "City, Country"
+location: "Newcastle upon Tyne, UK"
 ---
